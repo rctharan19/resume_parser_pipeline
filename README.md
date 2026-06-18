@@ -1,4 +1,4 @@
-# 🧠 Resume Parser Pipeline — Powered by Claude AI
+# 🧠 Resume Parser Pipeline
 
 An end-to-end pipeline that reads raw, unstructured resume text, extracts structured candidate data using an LLM, validates it against a JSON schema, scores each candidate against a job's requirements, and returns a clear hiring recommendation — all in one script.
 
