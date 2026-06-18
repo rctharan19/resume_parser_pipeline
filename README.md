@@ -171,6 +171,3 @@ Change the ceiling constants (`30`, `40`, `20`, `10`) as long as they still sum 
 
 ---
 
-## 📄 License
-
-MIT — feel free to adapt this for your own hiring tools or as a learning reference.
