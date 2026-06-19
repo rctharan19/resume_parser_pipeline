@@ -51,7 +51,7 @@ resume-pipeline/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/resume_parser_pipeline.git
+git clone https://github.com/rctharan19/resume_parser_pipeline.git
 cd resume_parser_pipeline
 ```
 
